@@ -26,10 +26,8 @@ file
 [2]separate old file
 [3]Double Remove
 =========[0.2.1.4]======
-
-[+]Total accounts:149899
-[+]Total useragent;150000
-[+]Total password:10
+ |_auto report
+ |_auto online
 [+]use flight(airplane) mode before use
 ==================================
 <script
